@@ -8,6 +8,6 @@
  * Email: kwalther@usc.edu
  *
  */
-public class Sample {
- //code here
+public class Student {
+
 }
