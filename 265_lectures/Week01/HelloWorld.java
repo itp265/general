@@ -12,6 +12,7 @@ public class HelloWorld {
     // Notice that the "MAIN" method has a very specific signature
     public static void main(String[] args) {
         // Curly braces enclose blocks of code
+        System.out.println("Welcome to programming in Java!");
 
         // statements end with semi-colons
 
